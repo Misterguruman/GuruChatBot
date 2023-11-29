@@ -1,0 +1,16 @@
+{
+  "name": "guruchatbot",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.14"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@twurple/api": "^7.0.6",
+    "@twurple/auth": "^7.0.6",
+    "@twurple/chat": "^7.0.6"
+  }
+}
